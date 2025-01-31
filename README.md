@@ -2,11 +2,13 @@
 
 ## [Overview]
 
-[The Personal Finance Tracker is a simple CRUD (Create, Read, Update,
+The Personal Finance Tracker is a simple CRUD (Create, Read, Update,
 Delete) web application designed to help users manage their personal
 financial data. It allows users to input, view, modify, and delete
 financial records, making it easier to track income and expenses in a
-straightforward manner.] 
+straightforward manner.
+
+Video URL: https://drive.google.com/file/d/1xojmS68jGh68IT5lXLda5MOx00Vw1n-T/view?usp=drive_link
 
 ## [Features] 
 

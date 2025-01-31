@@ -1,75 +1,88 @@
-#Personal Finance Tracker
+# Personal Finance Tracker
 
-Overview
+## [Overview]
 
-The Personal Finance Tracker is a simple CRUD (Create, Read, Update, Delete) web application designed to help users manage their personal financial data. It allows users to input, view, modify, and delete financial records, making it easier to track income and expenses in a straightforward manner.
+[The Personal Finance Tracker is a simple CRUD (Create, Read, Update,
+Delete) web application designed to help users manage their personal
+financial data. It allows users to input, view, modify, and delete
+financial records, making it easier to track income and expenses in a
+straightforward manner.] 
 
-Features
+## [Features] 
 
-Create: Add new financial records for income and expenses.
+- [Create] [: Add new financial records for income and
+  expenses.] 
 
-Read: View a list of all financial records.
+- [Read] [: View a list of all financial
+  records.] 
 
-Update: Edit existing records.
+- [Update] [: Edit existing records.] 
 
-Delete: Remove unwanted records.
+- [Delete] [: Remove unwanted records.] 
 
-Installation
+## [Installation] 
 
-Prerequisites
+### [Prerequisites] 
 
-Python 3.x
+- [Python 3.x] 
 
-Required libraries (install with pip):
+- [Required libraries] [ (install with pip):] 
 
-Flask
+  - [Flask] 
 
-SQLite 3
+  - [SQLite 3] 
 
-Steps
+### [Steps] 
 
-Clone the repository:
+1.  [Clone the repository:] 
 
-git clone https://github.com/anushkadn/fin-land.git
+[`git clone https://github.com/anushkadn/fin-land.git`] 
 
-Navigate to the project directory:
+1.  [Navigate to the project directory:] 
 
-cd fin_land
+[`cd fin_land`] 
 
-Create a virtual environment and install dependencies:
+1.  [Create a virtual environment and install dependencies:] 
 
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-pip install -r requirements.txt
+2.  [`python -m venv venv`] 
 
-Run the application:
+3.  [`` source venv/bin/activate  # On Windows, use `venv ```\``Scripts``\``` activate` ``] 
 
-python app.py
+[`pip install -r requirements.txt`] 
 
-Usage
+1.  [Run the application:] 
 
-Launch the application by running python app.py.
+[`python app.py`] 
 
-Open your web browser and go to http://localhost:5000.
+## [Usage] 
 
-Use the interface to create, view, update, or delete financial records.
+- [Launch the application by running `python app.py`.] 
 
-Roadmap
+- [Open your web browser and go to .] 
 
-Authentication and User Accounts
+- [Use the interface to create, view, update, or delete financial
+  records.] 
 
-Category-based Filtering
+## [Roadmap] 
 
-Search and Sorting Functionality
+- [Authentication and User Accounts] 
 
-Contributing
+- [Category-based Filtering] 
 
-Contributions are welcome! Please fork the repository and create a pull request with detailed descriptions of your changes.
+- [Search and Sorting Functionality] 
 
-License
+## [Contributing] 
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+[Contributions are welcome! Please fork the repository and create a pull
+request with detailed descriptions of your changes.] 
 
-Contact
+## [License] 
 
-For questions, suggestions, or feedback, contact anushkadevdatt@gmail.com or raise an issue on the GitHub repository.
+[This project is licensed under the ] [MIT
+License] [ - see the LICENSE file for details.] 
+
+## [Contact] 
+
+[For questions, suggestions, or feedback, contact
+] [anushkadevdatt@gmail.com] [ or raise an
+issue on the GitHub repository.] 
